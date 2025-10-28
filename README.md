@@ -14,7 +14,7 @@ Objectif : explorer et implémenter un **Vision Transformer (ViT)** pour deux t�
 ## 📄 Documents (à lire en priorité)
 - 📗 **Rapport final de l’étude** : `UE-INF1208M_Rapport_dépot_.pdf`
 - 📘 **Cahier des charges (amont)** : `UE-INF1208M_CahierDesCharges_Cahier_des_charges_(2).pdf`
-- 🎥 **Mini‑vidéo de vulgarisation** : `video.mp4` *(si présente à la racine du dépôt)*
+- 🎥 **Mini‑vidéo de vulgarisation** : `video.mp4`
 
 ---
 
