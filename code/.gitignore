@@ -1,0 +1,54 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers virtuels d'environnement
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de configuration Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers générés par l'IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de logs
+*.log
+
+# Fichiers du système
+.DS_Store
+Thumbs.db
+
+# Données téléchargées
+data/
+datasets/
+*.zip
+*.tar.gz
+
+# Fichiers de modèles sauvegardés
+# *.pth
+*.pt
+
+# Images générées
+# *.png
+*.jpg
+*.jpeg
+*.gif
+
+# Dossier de résultats
+# inpainting_results/
+
+# Fichiers de sortie
+output/
+outputs/
+
+# Fichiers temporaires
+temp/
+tmp/
