@@ -93,12 +93,6 @@ Les protocoles, métriques, comparaisons, courbes et résultats chiffrés sont *
 
 ---
 
-## 📝 Licence & citation
-- Licence : à préciser selon vos besoins (MIT/BSD/Apache‑2.0, etc.).  
-- Merci de citer l’UE **Ouverture à la Recherche — UCBL (2025)** et de référencer le **rapport final** dans toute réutilisation.
-
----
-
 ## 👥 Auteurs
 Projet réalisé dans le cadre de l’UE **Ouverture à la Recherche** (UCBL, 2025) par l’équipe étudiante.  
 Pour toute question technique, se référer d’abord au **rapport** puis aux **scripts** concernés.
